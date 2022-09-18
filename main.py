@@ -21,7 +21,7 @@ from core import (
 REPO = """
 👨‍💻**Legend Music Player**👨‍💻
 - Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
-- ⚜ [Owner](https://t.me/LegendBoy_XD) ⚜
+- ⚜ [Owner](https://t.me/ALIEN_1104) ⚜
 """
 
 if config.BOT_TOKEN:
